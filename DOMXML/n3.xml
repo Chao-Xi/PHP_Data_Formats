@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<EventList>
+  <event obj="power" info="power is shutdown">PHP0</event>
+  <event obj="memcache" info="memchache used than 90%">PHP1</event>
+  <event obj="cpu" info="cpu used than 90%">PHP2</event>
+  <event obj="disk" info="disk is removed">PHP3</event>
+<event obj="MAC_IOS" info="Sierra">System</event></EventList>
